@@ -1,0 +1,11 @@
+************* Module cleaned_inventory_system
+cleaned_inventory_system.py:115:11: W0718: Catching too general exception Exception (broad-exception-caught)
+cleaned_inventory_system.py:108:8: W0603: Using the global statement (global-statement)
+cleaned_inventory_system.py:131:11: W0718: Catching too general exception Exception (broad-exception-caught)
+cleaned_inventory_system.py:128:8: C0415: Import outside toplevel (os) (import-outside-toplevel)
+cleaned_inventory_system.py:144:0: C0116: Missing function or method docstring (missing-function-docstring)
+cleaned_inventory_system.py:174:11: W0718: Catching too general exception Exception (broad-exception-caught)
+
+------------------------------------------------------------------
+Your code has been rated at 9.45/10 (previous run: 9.36/10, +0.09)
+
